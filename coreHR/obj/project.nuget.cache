@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aAnUs8LncA+N/WT4lbfv1NOcC4uJ26j6rv3TZfvFQ4DzpZinkkRWW66nFhZgCQT32BcM3tAiED9MzUgLgt4UaQ==",
+  "success": true,
+  "projectFilePath": "/Users/bacng/Projects/coreHR/coreHR/coreHR.csproj",
+  "expectedPackageFiles": [
+    "/Users/bacng/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/bacng/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/bacng/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/bacng/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/bacng/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/bacng/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

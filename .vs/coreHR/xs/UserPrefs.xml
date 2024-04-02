@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{25347FEC-A4F6-47D1-8214-E7B971B1D160}|Default">
+  <MonoDevelop.Ide.ItemProperties.coreHR PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="coreHR/Models/Users.cs">
+    <Files>
+      <File FileName="coreHR/Program.cs" Line="10" Column="27" />
+      <File FileName="coreHR/appsettings.json" />
+      <File FileName="coreHR/Models/Products.cs" Line="9" Column="38" />
+      <File FileName="coreHR/Models/Users.cs" Line="7" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="coreHR" expanded="True">
+            <Node name="coreHR" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Users.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
